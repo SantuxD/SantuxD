@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate gradient snake SVG
+        uses: Platane/snk@master
+        id: snake
+        with:
+          github_user_name: SantuxD
+          svg_out_path: "output/github-contribution-grid-snake.svg"
+          # Gradient from sky blue to purple
+          snake_color: "#00bfff,#8a2be2"
+
+      - name: Commit generated SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update contribution snake (gradient)"
+          file_pattern: output/github-contribution-grid-snake.svg
