@@ -1,13 +1,10 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SantuxD/SantuxD/main/banner.gif" alt="Hey, I'm Santu Mondal" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Santu+Mondal;Full+Stack+Developer;MERN+Stack+Enthusiast;">
 </p>
 
 <h1 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 📚 Lifelong Learner</h1>
-
----
-
 
 
 ## 🚀 About Me  
@@ -20,7 +17,7 @@
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/887956448041132052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-mondal-049a16211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsantu104@gmail.com) 
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/887956448041132052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-mondal-049a16211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsantu104@gmail.com) 
 
 
 ## 🛠 Tech Stack  
@@ -47,7 +44,7 @@
 
 
 
-###✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -71,12 +68,12 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/SantuMondal/SantuMondal/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-
+--->
 
 
 
