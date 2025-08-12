@@ -1,7 +1,15 @@
 
-                                                                                                    
-<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Santu Mondal</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 📚 Lifelong Learner</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SantuxD/SantuxD/main/banner.gif" alt="Hey, I'm Santu Mondal" />
+</p>
+
+<h1 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 📚 Lifelong Learner</h1>
+
+---
+
+## 🚀 About Me  
+... (rest of your README here)
 
 ---
 
