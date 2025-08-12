@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hi there! I'm **Santu Mondal**  <br>🎓 2024 **Computer Science Engineering** graduate  <br>💻 Passionate about **Full Stack Web Development** & **DSA**  <br>🚀 Currently learning & building with the **MERN Stack**  <br>🎯 Goal: Become a skilled **Full Stack Developer** and create impactful projects  <br>
+
+👋 Hi there! I'm **Santu Mondal** 
+
+                   
+  #💫 About Me:
+  🎓 2024 **Computer Science Engineering** graduate  <br>💻 Passionate about **Full Stack Web Development** & **DSA**  <br>🚀 Currently learning & building with the **MERN Stack**  <br>🎯 Goal: Become a skilled **Full Stack Developer** and create impactful projects  <br>
 
 
 ## 🌐 Socials:
