@@ -8,10 +8,7 @@
 
 ---
 
-## 🚀 About Me  
-... (rest of your README here)
 
----
 
 ## 🚀 About Me  
 - 🎓 2024 **Computer Science Engineering** Graduate  
