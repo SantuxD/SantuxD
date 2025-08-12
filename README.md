@@ -59,9 +59,11 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="https://linkedin.com/in/santu-mondal-049a16211">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!--
   <a href="YOUR-PORTFOLIO-LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+  -->
   <a href="mailto:mondalsantu104@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
