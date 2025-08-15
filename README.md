@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🎓 2024 **Computer Science Engineering** Graduate  
 - 💡 Passionate about **Full Stack Web Development** & **Data Structures & Algorithms**  
-- 🛠 Currently building projects with **MERN Stack**  
+- 🛠 Currently building projects with **MERN Stack**                             
 - 🎯 **Goal:** Become a skilled Full Stack Developer & create impactful solutions  
 - 🌱 Learning **Advanced React.js** & **Backend APIs**  
 
