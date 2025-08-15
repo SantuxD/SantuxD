@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,postman,mysql,nginx,graphql,vercel,aws,docker,firebase,postgresql,vscode" />
 </p>
 
----
+---    
  
 <!--
 # 💻 Tech Stack:
