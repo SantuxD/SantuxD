@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Santu+Mondal;Full+Stack+Developer;MERN+Stack+Enthusiast;">
 </p>
 
-<h1 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 📚 Lifelong Learner</h1>
+<h1 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 📚 Lifelong Learner</h1>   
 
 
 ## 🚀 About Me  
