@@ -14,7 +14,7 @@
 - 🎯 **Goal:** Become a skilled Full Stack Developer & create impactful solutions  
 - 🌱 Learning **Advanced React.js** & **Backend APIs**  
 
----
+---    
 
 ## 🌐 Socials:
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/887956448041132052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-mondal-049a16211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsantu104@gmail.com) 
