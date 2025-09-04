@@ -19,7 +19,7 @@
 ## 🌐 Socials:
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/887956448041132052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-mondal-049a16211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsantu104@gmail.com) 
 
-
+     
 ## 🛠 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,postman,mysql,nginx,graphql,vercel,aws,docker,firebase,postgresql,vscode" />
